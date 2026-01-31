@@ -1,8 +1,0 @@
-#!/bin/bash
-
-# Update system packages
-sudo apt update
-sudo apt full-upgrade -y
-
-# Install required packages
-sudo apt install git btop -y
