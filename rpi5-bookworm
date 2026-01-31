@@ -5,4 +5,4 @@ sudo apt update
 sudo apt full-upgrade -y
 
 # Install required packages
-sudo apt install git btop
+sudo apt install git btop -y
